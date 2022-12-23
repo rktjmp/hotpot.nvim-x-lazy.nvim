@@ -26,3 +26,5 @@ Guide
   - Hotpot will compile `fnl/plugins` -> `lua/plugins` (see hotpot.lua#init function)
 - Restart nvim, lazy will now see the created `lua/plugins` files
 - :Lazy and install new plugins
+
+See also https://github.com/rktjmp/hotpot.nvim/issues/97 for other methods & discussion.
